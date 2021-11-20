@@ -32,6 +32,9 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
+![](https://i.imgur.com/iEQftJ0.gif)
+
+
 ## Notes
 
 The one problem I cam across towards the end was getting an error when trying to compile and run the app. This I resolved through some quick debugging and retracing my steps. Another minor problem was I accidentally linking the "Total" label to the total amount variable. Once I ran the simlator and noticed this it was a very quick fix.
